@@ -1,2 +1,2 @@
 # FormToolsServer
-Configurações para publicar a ferramenta formtools no kubernetes 
+Dockerfile and DockerCompose to publish formtools on a Kubernetes environment
